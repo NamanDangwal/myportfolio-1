@@ -320,7 +320,7 @@ section {
 }
 
 .section-title {
-  padding-bottom: 30px;
+  padding-bottom: 15px;
 }
 
 .section-title h2 {
@@ -330,6 +330,7 @@ section {
   padding-bottom: 20px;
   position: relative;
   color: #173b6c;
+  margin-top: 10px;
 }
 
 .section-title h2::after {
